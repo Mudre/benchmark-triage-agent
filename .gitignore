@@ -1,0 +1,10 @@
+.env
+.vscode
+data/generated/
+
+LLM_MODEL = ""
+JUDGE_MODEL = ""
+EMBEDED_MODEL = ""
+
+LLM_BASE_URL = ""
+
